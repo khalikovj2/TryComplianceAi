@@ -377,13 +377,7 @@ bun run -F @comp/ui build
 
 # Test packages locally
 bun run release:packages --dry-run
-```
 
-## Contributors
-
-<a href="https://github.com/trycompai/comp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=trycompai/comp" />
-</a>
 
 ## Repo Activity
 
