@@ -7,7 +7,7 @@
     "@azure/core-tracing": "^1.2.0",
     "@azure/identity": "^4.10.0",
     "@commitlint/cli": "^19.8.1",
-    "@commitlint/config-conventional": "^19.8.1",
+    "@commitlint/config-conventional": "^21.2.0",
     "@hookform/resolvers": "^5.1.1",
     "@number-flow/react": "^0.5.9",
     "@prisma/adapter-pg": "6.10.1",
